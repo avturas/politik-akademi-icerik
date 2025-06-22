@@ -1,125 +1,103 @@
-# 🎓 Siyasi Liderlik Akademisi
-
-## 📘 Modül 1: Siyasetin Tarihsel Temelleri ve Gücün Evrimi
-
-### 🕌 Ders 6: Orta Çağ ve Dinî Meşruiyet – Kilise, Halifelik ve Türk-İslam Siyaset Düşüncesi
+# 📘 Ders 6: Antik Yunan’da Demokrasi Deneyimi ve Yurttaşlık Kavramı
 
 ---
 
-## 🎯 Dersin Hedefleri
+## Giriş: Demokrasi Deyince Neden Antik Yunan?
 
-- Orta Çağ'da dinî kurumların siyasi otorite üzerindeki etkilerini analiz etmek
-- Kilise ve Halifelik gibi kurumların siyasal düzenler üzerindeki meşruiyet kaynağını tartışmak
-- Türklerin İslamiyet sonrası geliştirdiği devlet anlayışı ve siyaset teorisini öğrenmek
+Demokrasi kavramı, kökenlerini Antik Yunan’daki şehir-devletlerde (polis) bulur. Özellikle Atina’da milattan önce 5. yüzyılda gelişen doğrudan demokrasi uygulamaları, yurttaşlık, halk egemenliği ve siyasi katılım gibi temel siyasal kavramların ilk somut örneklerini sunmuştur. Bu ders, Atina demokrasisinin temel yapısını ve yurttaşlık anlayışını felsefi, tarihsel ve siyasal açıdan ele alır.
 
 ---
 
-## 🧠 Anahtar Kavramlar
+## 1. Yunan Polis Sistemi ve Siyasal Yapı
 
-- Dinî meşruiyet
-- Halifelik ve İmamet
-- Teokrasi – Sekülerlik
-- “Kut” anlayışı
-- İki kılıç öğretisi
-- Devlet-Gelenek-İnanç üçlüsü
+### 1.1 Polis: Şehir-Devlet Yapısı
 
----
+- Antik Yunan’da merkezi bir ulus-devlet yoktu; yerine yüzlerce bağımsız **polis** (şehir-devleti) vardı.
+- Her bir polis, kendi yasaları, kurumları ve ordu sistemiyle bağımsızdı.
+- En meşhurları: Atina, Sparta, Korint, Thebai.
 
-## 🏰 1. BÖLÜM – AVRUPA: KİLİSE VE SEKÜLER GÜÇ MÜCADELESİ
+### 1.2 Atina ve Sparta: İki Zıt Model
 
-### 1.1 Papalık ve Tanrısal Egemenlik İddiası
-
-- Papa’nın kraldan üstün olduğu inancı
-- Haçlı Seferleri’nin meşrulaştırılması
-- Engizisyon ve düşünce üzerindeki baskı
-
-### 1.2 İki Kılıç Teorisi
-
-- Ruhsal (Papa) ve dünyevi (İmparator) otoritenin ayrımı
-- Bu çatışmanın sekülerleşme sürecine etkisi
+| Özellik        | Atina                         | Sparta                               |
+| -------------- | ----------------------------- | ------------------------------------ |
+| Yönetim Biçimi | Doğrudan Demokrasi            | Oligarşi (iki krallı askeri rejim)   |
+| Yurttaşlık     | Erkek, özgür, Atinalı         | Sınırlı yurttaşlık, askerlik temelli |
+| Eğitim         | Retorik, felsefe, sanat       | Askeri disiplin ve kolektif hayat    |
+| Katılım        | Halk meclisinde geniş katılım | Katı hiyerarşi, sınırlı siyasal hak  |
 
 ---
 
-## 🕌 2. BÖLÜM – İSLAM DÜNYASI: HALİFELİK VE FIKIH TEMELLİ SİYASET
+## 2. Atina Demokrasisinin Gelişimi
 
-### 2.1 Halifeliğin Tarihi Evrimi
+### 2.1 Reform Süreci
 
-- Dört Halife → Emeviler → Abbasiler → Osmanlı
-- Siyasi kararların fıkıh çerçevesinde alınması
-- Şura, icma ve biat geleneklerinin etkisi
+- **Drakon Yasaları (MÖ 621):** Aşırı sertti, aristokrat sınıfı koruyordu.
+- **Solon Reformları (MÖ 594):** Borç köleliğini kaldırdı, meclis sistemini oluşturdu.
+- **Kleisthenes (MÖ 508):** Bölgesel temsile dayalı halk meclisini kurdu; “demokratia”yı kurumsallaştırdı.
+- **Perikles Dönemi (MÖ 5. yy ortaları):** Demokrasinin zirvesi. Devlet görevleri için maaş sistemi getirildi.
 
-### 2.2 Sünni–Şii Farklılıkları
+### 2.2 Temel Kurumlar
 
-- Meşruiyetin kaynağı: seçim mi, soy mu?
-- İmamet doktrini ve karizmatik otorite anlayışı
-
----
-
-## 🏺 3. BÖLÜM – TÜRKLERİN İSLAMİYET SONRASI SİYASİ YAPILARI
-
-### 3.1 İslam Öncesi: Kut Anlayışı
-
-- Hakanlık yetkisinin Tanrı'dan geldiği inancı
-- Gök Tanrı, töre, kurultay → meşruiyetin üç ayağı
-- Budun (millet) ve boylar arasında liderlik ilişkisi
-
-### 3.2 Türk-İslam Sentezi
-
-- Karahanlı, Gazneli, Büyük Selçuklu devletlerinde siyasi otoritenin dayanağı
-- Sultan ve Halife ayrımı: Dini meşruiyet Halife’de, fiili otorite Sultan’da
-- Nizamülmülk ve _Siyasetnâme_ geleneği
-
-### 3.3 Osmanlı Devleti’nde Hilafet
-
-- Yavuz Sultan Selim ile Hilafetin Osmanlı’ya geçişi
-- Halifeliğin sembolik gücü → 19. yy’da Pan-İslamizm politik araca dönüşmesi
-- 1924’te hilafetin kaldırılması: Seküler devlet inşası
+- **Ekklesia (Halk Meclisi):** 6000 yurttaşın katıldığı yasama organı.
+- **Boule (500’ler Konseyi):** Gündemi hazırlayan icra meclisi.
+- **Dikasterion (Halk Mahkemesi):** Yurttaşlarca yürütülen geniş katılımlı yargı sistemi.
+- **Stratejoi (Komutanlar):** Hem askeri hem siyasal liderler; yılda seçilirdi.
 
 ---
 
-## 📜 4. BÖLÜM – KARŞILAŞTIRMALI MEŞRUİYET YAKLAŞIMLARI
+## 3. Yurttaşlık ve Katılım
 
-| Yapı    | Meşruiyet Kaynağı            | Siyasi Lider | Dini Otorite                     |
-| ------- | ---------------------------- | ------------ | -------------------------------- |
-| Avrupa  | Tanrı (Papa)                 | Kral         | Papa/Kilise                      |
-| Abbasi  | Şeriat/Fıkıh                 | Halife       | Aynı kişi                        |
-| Osmanlı | Töre + Şeriat + Sünni Halife | Sultan       | Halife (siyasi olarak aynı kişi) |
+### 3.1 Kimler Yurttaş Sayılıyordu?
 
----
+- Sadece erkek, özgür ve Atinalı doğmuş bireyler.
+- Kadınlar, köleler ve metekler (göçmenler) oy kullanamazdı.
 
-## 📚 Önerilen Okumalar
+### 3.2 Yurttaşlık Hakları ve Görevleri
 
-- Nizamülmülk – _Siyasetnâme_
-- Bernard Lewis – _Ortadoğu’nun Siyasi Dili_
-- Mehmet İpşirli – _Osmanlı'da Hilafet ve Siyaset_
-- Halil İnalcık – _Devlet-i Aliyye_
-- Patricia Crone – _God’s Caliph_
-- İlber Ortaylı – _Osmanlı'da İslam ve Hilafet_
+- Yasama sürecine katılmak, jüri olmak, devlet görevi almak mümkündü.
+- Aynı zamanda **askerlik yapmak**, vergi ödemek, kamusal tartışmalara katılmak birer yükümlülüktü.
+
+### 3.3 Doğrudan Demokrasi Uygulaması
+
+- Temsilcili demokrasi yoktu; her yurttaş doğrudan yasama sürecine katılabilirdi.
+- Kurayla kamu görevleri dağıtılırdı, bu durum eşitliği artırmayı amaçlıyordu.
 
 ---
 
-## ❓ Tartışma Soruları
+## 4. Eleştiriler ve Sınırlar
 
-1. Hilafetin farklı dönemlerdeki anlam dönüşümleri nelerdir?
-2. Türklerin “kut” anlayışı İslam’la nasıl sentezlendi?
-3. Sekülerleşme süreci neden Batı’da ve Doğu’da farklı gelişmiştir?
-4. Günümüz Türkiye’sinde dinî meşruiyet arayışı nasıl bir anlam taşır?
+### 4.1 Sınırlı Yurttaşlık
+
+- Toplumun yalnızca %10-15’i tam yurttaş haklarına sahipti.
+- Kadınlar ve köleler sistemin dışında bırakılmıştı.
+
+### 4.2 Demokrasinin Popülizme Açık Yapısı
+
+- Sofistler gibi etkili hatipler, halkı kolayca yönlendirebilirdi.
+- Sokrates’in halk oylamasıyla idama mahkûm edilmesi bu sistemin zaaflarını gözler önüne serdi.
+
+### 4.3 Savaş ve Demokrasi Gerilimi
+
+- Peloponez Savaşları döneminde halk meclisleri savaş kararlarında etkili oldu.
+- Bazen askeri baskılar demokrasinin askıya alınmasına neden oldu.
 
 ---
 
-## ✅ Kazanımlar
+## 5. Kalıcı Etkileri ve Miras
 
-- Avrupa, İslam ve Türk siyasi geleneklerini kıyaslayabilir
-- Meşruiyetin kültürel ve inançsal temellerini anlayabilir
-- Halifelik ve kilise örneklerinden bugünkü liderlik meşruiyetine dair çıkarım yapabilir
-- Türk siyasetinde İslamiyet öncesi ve sonrası sürekliliği kavrar
+- **Demokrasi**, ilk defa Atina’da sistemli olarak uygulanmıştır.
+- Yurttaşlık, siyasal katılım, kamu hizmeti gibi kavramlar bu dönemde şekillenmiştir.
+- Modern demokrasilerin temelleri –seçim, katılım, temsil– bu dönemde atılmıştır.
+- Batı siyaset düşüncesi (özellikle Rousseau ve Mill), Atina demokrasisinden derinden etkilenmiştir.
 
 ---
 
-## 🧪 Uygulama Görevi
+## 📚 Kaynakça ve Okuma Önerileri
 
-Aşağıdaki konulardan birini seçerek 300–400 kelimelik bir değerlendirme yazısı yazınız:
-
-- “Hilafetin kaldırılması, Türkiye Cumhuriyeti’nin siyasal meşruiyet anlayışını nasıl etkiledi?”
-- “Kut anlayışı, çağdaş liderlik algısı için ne gibi dersler içerir?”
-- “Papalık ve Halifelik karşılaştırması: İki farklı dinî siyasal yapı”
+- Moses Finley – _Democracy Ancient and Modern_
+- Josiah Ober – _The Athenian Revolution_
+- Victor Ehrenberg – _The Greek State_
+- Cornelius Castoriadis – _Antik Yunan ve Modern Demokrasi_
+- Andrew Heywood – _Siyaset_
+- Plato – _Devlet_
+- Aristoteles – _Politika_

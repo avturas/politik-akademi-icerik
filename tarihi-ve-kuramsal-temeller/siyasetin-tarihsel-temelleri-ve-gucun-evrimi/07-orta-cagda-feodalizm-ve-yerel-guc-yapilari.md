@@ -1,130 +1,119 @@
-# 🎓 Siyasi Liderlik Akademisi
-
-## 📘 Modül 1: Siyasetin Tarihsel Temelleri ve Gücün Evrimi
-
-### 🏰 Ders 7: Orta Çağ’da Feodalizm ve Yerel Güç Yapıları
+# 📘 Ders 7: Roma Cumhuriyeti ve Hukuk Devletinin Doğuşu
 
 ---
 
-## 🎯 Dersin Amacı
+## Giriş: Gücün Yasayla Sınırlandırılması
 
-Bu ders, Orta Çağ Avrupa’sında ortaya çıkan feodal sistemin siyasi, ekonomik ve toplumsal yapısını analiz etmeyi amaçlar. Ayrıca bu sistemin yerel güç ilişkilerini nasıl şekillendirdiği ve merkezi devlet yapısının oluşumuna nasıl zemin hazırladığı irdelenir.
-
----
-
-## 🧠 Anahtar Kavramlar
-
-- Feodalizm
-- Süzeren – Vassal ilişkisi
-- Serflik ve Toprak Düzeni
-- Merkeziyetçilik – Yerellik
-- Güç Dağınıklığı
-- Şövalyelik ve Askeri Sadakat
+Roma Cumhuriyeti, Antik Yunan'dan sonra Batı siyaset geleneğini en derinden etkileyen ikinci büyük tarihsel örnektir. Roma, yalnızca askeri başarılarıyla değil, aynı zamanda hukuk devleti anlayışının, yurttaşlık haklarının, karma yönetim sisteminin ve kurumsallaşmış bir cumhuriyet modelinin doğuşuyla siyasal düşünce tarihinde çok önemli bir yer edinmiştir. Bu derste, Roma Cumhuriyeti’nin temel kurumları, hukuki yapısı ve siyasi mirası işlenecektir.
 
 ---
 
-## 🏛 1. Feodalizmin Ortaya Çıkışı
+## 1. Roma’nın Siyasal Dönemleri
 
-### 1.1 Roma İmparatorluğu’nun Çöküşü
+### 1.1 Krallık Dönemi (MÖ 753–509)
 
-- Merkezi otoritenin dağılması
-- Askeri ve idari boşluğun aristokrasi tarafından doldurulması
+- Kurucu efsaneler: Romulus ve Remus mitolojisi
+- 7 kral döneminde monarşik sistem
+- Son kral Tarquinius Superbus’un halk isyanıyla devrilmesi → Cumhuriyetin başlangıcı
 
-### 1.2 Karolenj İmparatorluğu ve Toprak Dağılımı
+### 1.2 Cumhuriyet Dönemi (MÖ 509–27)
 
-- Toprak karşılığı sadakat sistemi
-- Bağlılık yeminleri ve askeri hizmetler
+- Halkın yönetimde söz sahibi olduğu sistem
+- “Res publica” (kamusal iş) kavramı burada doğar
+- Karma hükümet: Monarşi (konsüller), aristokrasi (Senato), demokrasi (Halk Meclisleri)
 
----
+### 1.3 İmparatorluk Dönemi (MÖ 27 – MS 476)
 
-## 🔗 2. Süzeren-Vassal İlişkisi
-
-### 2.1 Hiyerarşik Yapı
-
-- Kral → Dük → Kont → Barona kadar hiyerarşi
-- Kutsal Roma Germen İmparatorluğu’nda örnek yapı
-
-### 2.2 Karşılıklı Yükümlülükler
-
-- Toprak koruması vs. askerî hizmet
-- Sadakat ve güven ilişkisine dayalı sosyal sözleşme
+- Augustus ile başlayan ve despotikleşen sistem
+- Hukuk ve idare gelişse de cumhuriyet ilkeleri zayıflar
 
 ---
 
-## 🌱 3. Toprak ve Emek: Serflik Sistemi
+## 2. Cumhuriyet Kurumları: Karma Yönetim Modeli
 
-### 3.1 Serf Kimdir?
+### 2.1 Konsüller
 
-- Özgür olmayan, toprağa bağlı köylü
-- Lord’a vergi, hizmet ve ürün borcu olan sınıf
+- İki kişi, bir yıl görev yapar
+- Yürütme yetkisi ve ordu komutası ellerindedir
+- Birbirlerini veto edebilirler → güç sınırlaması
 
-### 3.2 Ekonomik Model
+### 2.2 Senato
 
-- Otarkik (kendine yeten) köy ekonomisi
-- Malikane (manor) sistemi
+- Ömür boyu görevli aristokratlardan oluşur
+- Dış politika, maliye ve yasa önerilerinde etkili
+- Halkın değil, soyluların temsilidir
 
----
+### 2.3 Halk Meclisleri (Comitia)
 
-## 🏇 4. Askerî Güç ve Şövalyelik Kültürü
-
-### 4.1 Şövalyelik Yemini ve Toplumsal Roller
-
-- Dini-siyasi meşruiyet ile donanmış askerî sınıf
-- Şövalyelik kodu: sadakat, cesaret, merhamet
-
-### 4.2 Kilise’nin Etkisi
-
-- Ruhban sınıfının feodal yapıyla ilişkisi
-- “Tanrı’nın Barışı” (Pax Dei) hareketi
+- Pleplerin katılımı sağlanır
+- Yasama gücü ve magistra atamaları yapılır
+- “Tribunus Plebis”: Pleplerin temsilcisi ve veto yetkisi
 
 ---
 
-## 🌍 5. Feodalizmin Coğrafi Yayılımı
+## 3. Roma Hukuku ve Hukuk Devleti Anlayışı
 
-- Batı Avrupa: Fransa, Almanya, İngiltere örnekleri
-- Doğu Avrupa: Daha geç ve farklı biçimde benimsenme
-- Anadolu’daki Beylikler: Benzer yerelcilik eğilimleri (örnek kıyaslama)
+### 3.1 On İki Levha Kanunları (MÖ 450)
 
----
+- Yazılı hukuk anlayışı başlar → keyfi uygulamaların sınırlandırılması
+- Soyluların değil, herkesin tabi olduğu hukuk anlayışı
+- Hukukun öngörülebilir ve genel olması ilkesinin temelleri
 
-## ⚖️ 6. Siyasi Sonuçlar ve Kalıcı Etkiler
+### 3.2 Yurttaşlık ve Hukuki Statü
 
-- Güç dağınıklığı: Kralların zayıf ama lordların güçlü olması
-- Merkezi devletin kurulmasının gecikmesi
-- Modern parlamenter sistemlerin öncülleri: “Feodal Meclisler”
+| Statü           | Açıklama                        |
+| --------------- | ------------------------------- |
+| _Civis Romanus_ | Tam haklara sahip yurttaş       |
+| _Latini_        | Sınırlı haklara sahip Latinler  |
+| _Peregrini_     | Yabancılar                      |
+| _Slaves_        | Hukuki kişiliği olmayan köleler |
 
----
+### 3.3 Hukukun Evrensel İlkelere Genişlemesi
 
-## 📚 Önerilen Okumalar
-
-- Marc Bloch – _Feodal Toplum_
-- Perry Anderson – _Antikçağdan Feodalizme_
-- Georges Duby – _Avrupa’da Ortaçağ Toplumu_
-- İlber Ortaylı – _Avrupa ve Bizans’ta Toprak Düzeni_
-
----
-
-## ❓ Tartışma Soruları
-
-1. Feodal sistemde meşruiyet kaynağı nedir?
-2. Yerel gücün artması toplum düzenini nasıl etkilemiştir?
-3. Serflik ve modern işçi ilişkileri arasında nasıl bir karşılaştırma yapılabilir?
-4. Türkiye tarihinde benzer bir “feodal” dönem yaşandı mı?
+- **Doğal hukuk** anlayışı doğar: İnsan doğasından kaynaklanan evrensel haklar
+- Roma hukukçuları: Cicero, Gaius, Ulpianus
+- Bu yaklaşım, Orta Çağ ve Aydınlanma düşünürlerini (örneğin Grotius, Locke) etkiler
 
 ---
 
-## ✅ Kazanımlar
+## 4. Gücün Dengelenmesi: Kurumsal Fren ve Denge Mekanizmaları
 
-- Feodalizmin siyasal ve ekonomik yapısını tanır
-- Yerel güç odaklarının siyasi etkilerini analiz eder
-- Siyaset ve toprak-emek ilişkisi bağlamında tarihsel örneklerden çıkarım yapar
-- Merkeziyetçiliğin tarihsel önemini kavrar
+- Konsüller arası veto hakkı
+- Senato’nun denetim gücü
+- Tribünlerin halk adına yasa ve işlem vetosu
+- Geçici diktatörlük yetkisi: Olağanüstü haller için (örnek: Cincinnatus)
 
 ---
 
-## 🧪 Uygulama Görevi
+## 5. Cumhuriyetin Çöküşü ve Mirası
 
-Aşağıdaki iki görevden birini seçiniz:
+### 5.1 Kurumsal Bozulma
 
-1. Feodal bir düzende kral ile baron arasındaki ilişkileri temsil eden bir diyagram çizin.
-2. Türkiye’deki beylikler dönemi ile Avrupa feodalizmi arasında benzerlik ve farkları karşılaştıran kısa bir makale yazın (300–400 kelime).
+- İç savaşlar, sınıf çatışmaları ve güç mücadelesi
+- Sezar’ın diktatörlüğü → Senato’nun zayıflaması
+- Augustus (Octavianus) ile resmi olarak İmparatorluk başlar
+
+### 5.2 Cumhuriyetin Siyasi Mirası
+
+- ABD Anayasası dahil olmak üzere birçok anayasal sistem Roma modelinden etkilenmiştir.
+- Senato, yurttaşlık, veto, yasama meclisleri gibi kurumlar modern devletlere örnek olmuştur.
+- Roma hukuk sistemi, kıta Avrupası hukuk sistemlerinin temeli olmuştur.
+
+---
+
+## 6. Roma’nın Türkiye Üzerindeki Dolaylı Etkileri
+
+- Roma hukukunun Bizans üzerinden Osmanlı’ya; oradan da modern Türk hukuk sistemine etkileri
+- Meclis, temsil, hukuk devleti gibi kavramlar Batı’dan alındı ama kökenleri Roma’dadır
+- Türk siyasetinde zamanla gelişen hukukiliğin temelinde Roma’nın dolaylı katkısı vardır
+
+---
+
+## 📚 Kaynakça ve Okuma Önerileri
+
+- Fergus Millar – _The Crowd in Rome in the Late Republic_
+- Andrew Lintott – _The Constitution of the Roman Republic_
+- Cicero – _Yasalar Üzerine_ (_De Legibus_)
+- Moses Finley – _Antik Dünya'da Demokrasi_
+- Murat Arslan – _Roma Hukuku_
+- Eric Nelson – _The Hebrew Republic_ (Roma'dan Orta Çağ’a siyaset mirası üzerine)
