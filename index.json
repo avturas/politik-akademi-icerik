@@ -1,13 +1,13 @@
 [
   {
-    "title": "Siyaset Nedir?",
-    "slug": "01-siyaset-nedir",
+    "title": "Siyaset Nedir? Kavramsal Giriş ve Tarihsel Arka Plan",
+    "slug": "01-siyaset-nedir-kavramsal-giris-ve-tarihsel-arka-plan",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
-    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/01-siyaset-nedir.md"
+    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/01-siyaset-nedir-kavramsal-giris-ve-tarihsel-arka-plan.md"
   },
   {
-    "title": "İktidar, Meşrutiyet ve Otorite Üzerine Temel Kavramlar",
+    "title": "İktidar, Meşruiyet ve Otorite Üzerine Temel Kavramlar",
     "slug": "02-iktidar-mesrutiyet-ve-otorite-uzerine-temel-kavramlar",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
@@ -21,31 +21,31 @@
     "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/03-ilkel-toplumlarda-guc-otorite-ve-liderlik-yapilari.md"
   },
   {
-    "title": "Devletin Doğuşu: Tarım Devrimi, Yerleşik Hayat ve Kurumsal Otoritenin Başlangıcı",
-    "slug": "04-devletin-dogusu-tarim-devrimi-yerlesik-hayat-ve-kurumsal-otoritenin-baslangici",
+    "title": "Şehir Devletlerinden İmparatorluklara Geçiş",
+    "slug": "04-sehir-devletlerinden-imparatorluklara-gecis",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
-    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/04-devletin-dogusu-tarim-devrimi-yerlesik-hayat-ve-kurumsal-otoritenin-baslangici.md"
+    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/04-sehir-devletlerinden-imparatorluklara-gecis.md"
   },
   {
-    "title": "Antik Uygarlıklarda Devlet Modelleri: Yunan, Roma ve Çin",
-    "slug": "05-antik-ugarliklarda-devlet-modelleri-yunan-roma-ve-cin",
+    "title": "Antik Mezopotamya ve Mısır’da Siyasi Organizasyon",
+    "slug": "05-antik-mezopotamya-ve-misirda-siyasi-organizasyon.md",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
-    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/05-antik-ugarliklarda-devlet-modelleri-yunan-roma-ve-cin.md"
+    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/05-antik-mezopotamya-ve-misirda-siyasi-organizasyon.md"
   },
   {
-    "title": "Orta Çağ ve Dinî Meşruiyet: Kilise, Halifelik ve Türk-İslam Siyaset Düşüncesi",
-    "slug": "06-orta-cag-ve-dini-mesruiyet-kilise-halifelik-ve-turk-islam-siyaset-dusuncesi",
+    "title": "Yunan Polisleri ve Doğrudan Demokrasi Deneyimi",
+    "slug": "06-yunan-polisleri-ve-dogrudan-demoktasi-deneyimi",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
-    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/06-orta-cag-ve-dini-mesruiyet-kilise-halifelik-ve-turk-islam-siyaset-dusuncesi.md"
+    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/06-yunan-polisleri-ve-dogrudan-demoktasi-deneyimi.md"
   },
   {
-    "title": "Orta Çağ’da Feodalizm ve Yerel Güç Yapıları",
-    "slug": "07-orta-cagda-feodalizm-ve-yerel-guc-yapilari",
+    "title": "Roma Cumhuriyeti ve İmparatorlukta Yönetişim",
+    "slug": "07-roma-cumhuriyeti-ve-imparatorlukta-yonetisim",
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Siyasetin Tarihsel Temelleri ve Gucun Evrimi",
-    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/07-orta-cagda-feodalizm-ve-yerel-guc-yapilari.md"
+    "path": "tarihi-ve-kuramsal-temeller/siyasetin-tarihsel-temelleri-ve-gucun-evrimi/07-roma-cumhuriyeti-ve-imparatorlukta-yonetisim.md"
   }
 ]
