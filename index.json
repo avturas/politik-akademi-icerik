@@ -565,5 +565,19 @@
     "category": "Tarihi ve Kuramsal Temeller",
     "module": "Anayasa, Hukuk ve Kamu Yönetimi",
     "path": "tarihi-ve-kuramsal-temeller/anayasa-hukuk-ve-kamu-yonetimi/20-gelecegin-anayasasi-ve-kamu-yonetiminde-donusum-senaryolari.md"
+  },
+  {
+    "title": "Orta Asya'da İlk Türk Toplumları ve Devlet Anlayışı",
+    "slug": "01-orta-asyada-ilk-turk-toplumlari-ve-devlet-anlayisi",
+    "category": "Türklerin Siyasal Gelişimi",
+    "module": "Bozkırdan İmparatorluğa - İlk Türk Devletlerinden Osmanlı’ya",
+    "path": "turklerin-siyasal-gelisimi/bozkirdan-imparatorluga-ilk-turk-devletlerinden-osmanliya/01-orta-asyada-ilk-turk-toplumlari-ve-devlet-anlayisi.md"
+  },
+  {
+    "title": "Kut İnancı ve Siyasal Meşruiyet",
+    "slug": "02-kut-inanci-ve-siyasal-mesruiyet",
+    "category": "Türklerin Siyasal Gelişimi",
+    "module": "Bozkırdan İmparatorluğa - İlk Türk Devletlerinden Osmanlı’ya",
+    "path": "turklerin-siyasal-gelisimi/bozkirdan-imparatorluga-ilk-turk-devletlerinden-osmanliya/02-kut-inanci-ve-siyasal-mesruiyet.md"
   }
 ]
