@@ -60,14 +60,6 @@ Nizamü’l-Mülk, Selçuklu iktidarının merkezileşmesini ve kalıcı kurumsa
 
 ---
 
-## Okuma Önerisi
-
-- **Nizâmü’l-Mülk**, _Siyasetname_, haz. Mehmet Altay Köymen, Türk Tarih Kurumu, Ankara 2020.
-- **Bernard Lewis**, _İslam'da Siyasal Düşünce_
-- **İbrahim Kafesoğlu**, _Türk Milli Kültürü_
-
----
-
 ## 1.2 Osmanlı Siyasal Sisteminin Başlıca Kurum ve Özellikleri
 
 ### 1.2.1 Merkezileşme ve Güç Dengeleri
@@ -116,14 +108,6 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 
 ---
 
-## Kaynakça
-
-- Ahmet Mumcu, _Osmanlı Devleti’nde Siyaseten Katl_, Ankara Üniversitesi Yayınları, 2007.
-- Mehmet Altay Köymen (haz.), _Siyasetname_, Türk Tarih Kurumu, 2020.
-- Halil İnalcık, _Devlet-i Aliyye_, Timaş Yayınları.
-- Cemil Karatepe, _Osmanlı’da Yönetim ve Bürokrasi_, 1990.
-- İsmail Hakkı Uzunçarşılı, _Osmanlı Devleti Teşkilâtı ve Kıyafetleri_, Türk Tarih Kurumu.
-
 ### 1.2.3 Millet Sistemi
 
 - Osmanlı Devleti, genişlemesine paralel olarak farklı etnik, dini ve bölgesel topluluklara yasallık tanımıştır.
@@ -150,19 +134,6 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 - Modernleşme süreciyle birlikte din adamları, geleneksel yapının dönüşümüne karşı muhalefetin bir parçası haline gelmiştir.
 
 ---
-
-## Kaynakça
-
-- Bozkurt, 1989
-- Ortaylı, 1986
-- Sayar, 1986
-- Arı, 1994
-- Barkan, 1993
-- İpşirli, 1999
-- Becermen, t.y.
-- Mardin, 1986
-- İnalcık, 2000
-- Toprak, 1981
 
 ### 1.3.1 Osmanlı Devleti’nde Modernleşme Girişimlerine Yol Açan Dinamikler
 
@@ -196,13 +167,6 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 
 ---
 
-## Kaynakça
-
-- Yücel, 1974
-- Yücekök, 1983
-- Tanör, 2000
-- Versan, 1986
-
 ### 1.3.2 Tanzimat’tan Meşrutiyete: Hanedan – Bürokrasi Gerilimi
 
 - II. Mahmut döneminden itibaren ayan sorununa karşı reform ihtiyacı artmış; askeri ıslahatlar yetersiz kalmıştır.
@@ -235,16 +199,6 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 
 ---
 
-## Kaynakça
-
-- Kemal Karpat, _Osmanlı Modernleşmesi: Toplum, Kurumsal Değişim ve Nüfus_, Timaş Yayınları, 2022.
-- İlber Ortaylı, _İmparatorluğun En Uzun Yüzyılı_, İletişim Yayınları.
-- Ergun Özbudun, _Türk Anayasa Hukuku_, Yetkin Yayınları.
-- Şerif Mardin, _Türk Modernleşmesi_, İletişim Yayınları.
-- Ahmet Sarıca, _Tanzimat ve Meşrutiyet Döneminde Osmanlı Anayasal Gelişmeleri_, 1983.
-- Tarık Zafer Tunaya, _Türkiye’de Siyasal Partiler_, 1984.
-- Aykut Kansu, _1908 Devrimi_, İletişim Yayınları.
-
 ### 1.3.3 II. Meşrutiyet: Bürokrasi – Meclis Gerilimi
 
 - II. Meşrutiyet, hanedan-bürokrasi geriliminin bürokrasiden yana çözülmesidir; hanedanın devlet içindeki belirleyici konumu zayıflamıştır.
@@ -276,17 +230,6 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 
 ---
 
-## Kaynakça
-
-- Turgut, 1984
-- Kabasakal, 1991
-- Tunaya, 1952
-- Ahmad, 1986
-- Yerasimos, tarihsiz
-- Yücekök, 1983
-- Tanör, 2003
-- Akşin, 2006
-
 ### 1.3.4 I. Dünya Savaşı ve Osmanlı Modernleşmesinin Sonu
 
 - I. Dünya Savaşı, Avusturya-Macaristan veliahdının Saraybosna’da bir Sırp tarafından öldürülmesiyle başlamış, ancak bu suikast sadece bir bahane olarak kalmıştır.
@@ -311,8 +254,35 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 ## Kaynakça
 
 - ODA, 2013
+- Ahmet Mumcu, _Osmanlı Devleti’nde Siyaseten Katl_, Ankara Üniversitesi Yayınları, 2007.
+- Mehmet Altay Köymen (haz.), _Siyasetname_, Türk Tarih Kurumu, 2020.
+- Halil İnalcık, _Devlet-i Aliyye_, Timaş Yayınları.
+- Cemil Karatepe, _Osmanlı’da Yönetim ve Bürokrasi_, 1990.
+- İsmail Hakkı Uzunçarşılı, _Osmanlı Devleti Teşkilâtı ve Kıyafetleri_, Türk Tarih Kurumu.
+- Bozkurt, 1989
+- Ortaylı, 1986
+- Sayar, 1986
+- Arı, 1994
+- Barkan, 1993
+- İpşirli, 1999
+- Becermen, t.y.
+- Mardin, 1986
+- İnalcık, 2000
+- Toprak, 1981
+- Yücel, 1974
+- Yücekök, 1983
+- Tanör, 2000
+- Versan, 1986
+- Turgut, 1984
+- Kabasakal, 1991
+- Tunaya, 1952
+- Ahmad, 1986
+- Yerasimos, tarihsiz
+- Yücekök, 1983
+- Tanör, 2003
+- Akşin, 2006
 
-## Kaynakça
+## Okuma Önerisi
 
 - Halil İnalcık, _Devlet-i Aliyye_
 - Mehmet Genç, _Osmanlı İmparatorluğu’nda Devlet ve Ekonomi_
@@ -328,3 +298,13 @@ Divan üyeleri arasında kubbealtı vezirleri, kazaskerler, defterdar, nişancı
 - Tarık Zafer Tunaya, _Türkiye’de Siyasal Partiler, 1859–1952_
 - Bernard Lewis, _Modern Türkiye’nin Doğuşu_
 - Ahmad Yerasimos, _Azgelişmişlik Sürecinde Türkiye_
+- **Nizâmü’l-Mülk**, _Siyasetname_,
+- **Bernard Lewis**, _İslam'da Siyasal Düşünce_
+- **İbrahim Kafesoğlu**, _Türk Milli Kültürü_
+- Kemal Karpat, _Osmanlı Modernleşmesi: Toplum, Kurumsal Değişim ve Nüfus_
+- İlber Ortaylı, _İmparatorluğun En Uzun Yüzyılı_
+- Ergun Özbudun, _Türk Anayasa Hukuku_
+- Şerif Mardin, _Türk Modernleşmesi_
+- Ahmet Sarıca, _Tanzimat ve Meşrutiyet Döneminde Osmanlı Anayasal Gelişmeleri_
+- Tarık Zafer Tunaya, _Türkiye’de Siyasal Partiler_
+- Aykut Kansu, _1908 Devrimi_
