@@ -9,14 +9,6 @@ Bu bölümde ise 2011–2015 arasındaki gelişmelere, çatışmalara ve siyasal
 
 ---
 
-## 💡 Birlikte Düşünelim
-
-1. Ergenekon ve Balyoz davaları hangi tartışmalara neden olmuştur?
-2. 2013’te yaşanan Gezi Parkı olaylarının siyasal sonuçları neler oldu?
-3. 2014 ve 2015 seçimleri siyasal hayatımız açısından neden önemlidir?
-
----
-
 ## 🗳️ 10.1. 2011 Genel Seçimleri
 
 2011 genel seçimleri Ak Parti açısından büyük bir başarıydı.  

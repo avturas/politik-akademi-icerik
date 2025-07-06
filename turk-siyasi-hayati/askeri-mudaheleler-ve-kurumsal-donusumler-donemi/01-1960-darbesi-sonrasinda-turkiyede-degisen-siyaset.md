@@ -10,24 +10,11 @@
 
 — Süleyman Demirel
 
-## Kazanımlar
-
-- 1960 Darbesi sonrasında Türkiye’de değişen siyaset ve yeni rejim hakkında bilgi sahibi olur.
-- 1961–1965 güdümlü koalisyon hükümetleri ve 1965–1971 Demirel hükümetleri hakkında bilgi edinir.
-- 1960 yıllarındaki ülke ekonomisi hakkında bilgi sahibi olur.
-- 12 Mart’a götüren süreci kavrar.
-
 ## Başlamadan Önce
 
 Bir önceki bölümde Türkiye Cumhuriyeti’nin çok partili hayata geçişi ve Demokrat Parti dönemi ile ilgili bilgi verilmişti. Bu bölümde Türk siyasal hayatının değişiminde önemli etkilerde bulunan 1960 darbesi ve ara rejim dönemi ele alınacaktır. Türkiye siyasetine travmatik etkileri bulunan ve ülkedeki siyasal farklılaşmanın üzerinde belirleyici olan bu dönem ve sonrasında yaşanan gerilimler bu bölümün temel konularını oluşturmaktadır.
 
 Bölüm; darbenin ve ara rejim sürecinin siyasal hayat üzerindeki etkilerinin öne çıktığı **1960–1965 yılları arasındaki dönem** ve bu durumun yol açtığı tepkileri içeren **1965 sonrası dönem** olarak iki ana alt başlıkta gelişmeleri ele almaktadır.
-
-## Birlikte Düşünelim
-
-1. Türkiye’de darbelerin ne gibi sonuçları olmuştur?
-2. Türk siyasetinde sıklıkla kullanılan vesayetçilik kavramı hangi arka plandan kaynaklanmaktadır?
-3. Darbelerle uluslararası sistem arasında nasıl bir ilişki kurulabilir?
 
 ### 3.5. 1960 Darbesine Giden Süreç
 

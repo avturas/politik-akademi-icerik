@@ -3,28 +3,11 @@
 > “II. Dünya savaşından sonra Türkiye’nin NATO’ya katılması, Sovyetler tehdidi gerekçesiyle katılması öyle ya da böyle stratejik bir mantık çerçevesinde açıklanabilecek bir durumdu… Fakat Türkiye güvenliğine bugün tehdidi oluşturan ABD’nin kendisi… Biz Türkiye’de ABD egemenliğine karşıyız. Biz Rusya’nın başka ülkeler üstündeki egemenliğine de karşıyız. Çok kutuplu dünyada bu böyledir. Bizim silahımız Türkiye’yi Batı kontrolünden kurtaracaktır.”  
 > — A. Dugin
 
----
-
-## 🎯 Kazanımlar
-
-- 2011 sonrasında Türk dış politikasını etkileyen dinamikler neler olmuştur?
-- Arap Baharının Türkiye üzerinde ne gibi sonuçları olmuştur?
-- Suriye krizinin Türkiye–ABD ilişkileri üzerindeki yansımaları nelerdir?
-- Türkiye’nin S-400 sistemini alma ısrarı hangi gerekçelere dayanmaktadır?
-
----
-
 ## 📌 Başlamadan Önce
 
 Bir önceki bölümde 15 Temmuz darbe girişimi ve sonrasında yaşanan siyasal gelişmeler ele alınmıştı. Bu bölümde ise Türk dış politikasının güncel parametreleri üzerinde durulacaktır. Arap Baharı bağlamında Suriye krizi ve ardından yaşanan gelişmelerin Türk dış politikasına etkileri ve Türkiye’nin ABD ile Rusya ile geliştirdiği stratejik ve diplomatik ilişkiler değerlendirilecektir.
 
 ---
-
-## 🤔 Birlikte Düşünelim
-
-1. ABD’nin Ortadoğu stratejisi konusunda neler söylenebilir?
-2. Rusya ile Türkiye neden bazı konularda iş birliği yapıyor?
-3. Uluslararası göç sorununun bölgesel sonuçları nelerdir?
 
 ---
 

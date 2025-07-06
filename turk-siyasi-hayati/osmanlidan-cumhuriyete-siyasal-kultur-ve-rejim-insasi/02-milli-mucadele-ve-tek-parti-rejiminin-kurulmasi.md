@@ -6,14 +6,6 @@
 > İşte biz, Takrir-i Sükûn Kanununun yürürlükte olmasından bunun için yararlandık ise, bu tarihi hatayı bir daha işlememek için, Milletimizin alnının olduğu gibi açık ve ak göstermek için, Milletimizin mutaassıp ve orta çağ zihniyetinde olmadığını ispat etmek için yararlandık”.  
 > **– Mustafa Kemal Atatürk**
 
-## 🎯 Kazanımlar
-
-- Millî Mücadele Döneminde başlıca siyasal gelişmeler hakkında bilgi edinir.
-- TBMM içindeki siyasi farklılaşmalardan bilgi sahibi olur.
-- Halk Fırkası, Terakkiperver Cumhuriyet Fırkası ve Serbest Cumhuriyet Fırkası'nın oluşumu ve siyasal hayat içindeki konumlarını öğrenir.
-- Tek parti yönetiminin kurumsal yapısı ve politikalarından bilgi sahibi olur.
-- Türk modernleşmesinin belirleyici özelliklerini öğrenir.
-
 ## 📌 Başlamadan Önce
 
 Bir önceki bölümde Türk siyasal kültürünün tarihsel dinamikleri ve Osmanlı Dönemi siyasal hayat konuları incelenmişti.  
@@ -23,15 +15,6 @@ Bu bölümde:
 - Mücadele ortamı içinde ve Cumhuriyet’in kurulma sürecinde yaşanan siyasal farklılaşma,
 - Türkiye’de tek parti iktidarının kurulma süreci ve başlıca özellikleri  
   ele alınacaktır.
-
----
-
-## 1. Birlikte Düşünelim
-
-1. Millî Mücadele sürecinde İstanbul ile Ankara hükümeti arasındaki ilişkiler nasıl gelişmiştir?
-2. 1921 Teşkilat-ı Esasiye Kanunu nasıl bir siyasal işleyiş getirmiştir?
-3. Bu dönemde kurulan siyasi partilerin özellikleri nelerdir?
-4. İkinci Dünya Savaşı'nın Türk siyasetine etkileri neler olmuştur?
 
 ---
 

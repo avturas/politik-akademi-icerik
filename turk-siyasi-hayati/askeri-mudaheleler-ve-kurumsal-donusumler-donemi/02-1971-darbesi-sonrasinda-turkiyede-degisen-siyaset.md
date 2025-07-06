@@ -6,16 +6,6 @@
 
 ---
 
-## 🎯 Kazanımlar
-
-- 1971 Muhtırası ve 70’li yıllarda Türkiye’de siyaset konularını açıklar.
-- 12 Mart Rejimi hakkında bilgi edinir.
-- Ara rejim hükümetleri hakkında bilgi sahibi olur.
-- 1970’li yıllarda kurulan koalisyon hükümetleri ve siyasal istikrarsızlık arasındaki ilişkiyi çözümler.
-- Kıbrıs Barış Harekâtı sonrasında yaşanan uluslararası gelişmelerin iç siyasete etkisini analiz eder.
-
----
-
 ## 📌 Başlamadan Önce
 
 Bir önceki bölümde 1960 askeri darbesi ve 12 Mart’a giden süreç ele alınmıştı.  
@@ -25,15 +15,6 @@ yaklaşık üç yıl sürecek bir **güdümlü demokrasi dönemi** başlatılmı
 
 1973 seçimleri hem bu döneme bir halk tepkisi hem de yeni bir siyasal dönemin başlangıcı olmuştur.  
 Bu ders, özellikle siyasal şiddet ve istikrarsızlığın arttığı 1970’li yıllardaki dönüşümleri kapsamaktadır.
-
----
-
-## 💬 Birlikte Düşünelim
-
-1. **12 Mart Muhtırasının arka planı nasıl şekillenmiştir?**
-2. **1970’li yıllarda Türkiye’de siyaset nasıl bir değişim geçirdi?**
-3. **Kutuplaşmış çok partili sistem ne anlama gelmektedir?**
-4. **12 Eylül 1980 darbesine götüren süreçte neler yaşandı?**
 
 ---
 

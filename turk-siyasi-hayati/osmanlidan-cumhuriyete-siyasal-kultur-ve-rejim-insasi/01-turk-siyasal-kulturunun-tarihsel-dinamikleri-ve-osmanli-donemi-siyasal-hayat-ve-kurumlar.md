@@ -5,15 +5,6 @@
 
 ---
 
-## Kazanımlar
-
-- Osmanlı siyasal yapısının tarihsel kaynaklarını analiz eder.
-- Osmanlı'nın siyasal kurumlarını ve işleyiş biçimlerini tanır.
-- Osmanlı modernleşmesini tetikleyen tarihsel koşulları kavrar.
-- Modernleşme sürecinin siyasal ve kurumsal etkilerini değerlendirir.
-
----
-
 ## 1. Osmanlı Siyasal Sisteminin Tarihsel Arka Planı
 
 ### 1.1 Selçuklu Döneminden Osmanlı’ya Kurumsal Devamlılık

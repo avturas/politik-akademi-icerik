@@ -1,19 +1,5 @@
 # AK Parti İktidarı: 2002–2011 Dönemi – AB Odaklı Siyasetten Çatışmaya
 
-## 📌 Dersin Amacı
-
-Bu derste, AK Parti'nin 2002–2011 yılları arasında izlediği Avrupa Birliği odaklı reform süreci, yaşanan iç siyasal krizler, dış politika açılımları ve anayasal değişiklikler kapsamlı biçimde ele alınmaktadır. Dönem, Türkiye'nin AB sürecine yaklaşımındaki dönüşüm kadar, iç siyasetteki gerilimlerle de şekillenmiştir.
-
-## 🎯 Kazanımlar
-
-- 2002–2011 arası AK Parti iktidarının temel siyasal adımlarını öğrenir.
-- 2007 Cumhurbaşkanlığı krizi ve sonuçlarını açıklar.
-- Açılım süreci ve Habur olayının etkilerini değerlendirir.
-- 2010 Anayasa değişikliklerinin kapsamını analiz eder.
-- AK Parti'nin dış politikada AB odaklı yaklaşımını yorumlar.
-
----
-
 ## 🧭 Tarihsel Arka Plan
 
 AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip Erdoğan’ın siyasi yasağına rağmen parti lideri olarak süreci yönlendirmiştir. Anayasa değişikliğiyle yasağın kaldırılması, Erdoğan’ın milletvekili seçilmesi ve başbakan olmasıyla sonuçlanmıştır.
@@ -89,28 +75,11 @@ AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip
 
 ---
 
-## 🧠 Birlikte Düşünelim
-
-1. Yeni bir siyasal aktör olarak AK Parti, Türk siyasal hayatında ne tür dönüşümler yarattı?
-2. 2007 Cumhurbaşkanlığı krizinin temel dinamikleri nelerdi?
-3. AB sürecinde yaşanan kopuşun iç ve dış nedenleri nelerdir?
-4. Annan Planı süreci Türk dış politikasını nasıl etkiledi?
-
 # 2007 Krizi: Cumhurbaşkanlığı Seçimleri Çevresinde Yaşanan Gerilim
 
 ## 📌 Konu Özeti
 
 2007 Cumhurbaşkanlığı seçim süreci, Türkiye'de devletin başı ile hükümet arasındaki yetki çatışmalarının, vesayet kurumlarıyla siyasi iktidarın karşı karşıya geldiği bir krize dönüşmesine yol açmıştır. Cumhurbaşkanı Sezer’in sıkça veto kullanması, laiklik tartışmaları, 367 krizi ve Genelkurmay bildirisi bu dönemin temel kırılma noktalarıdır.
-
----
-
-## 🎯 Kazanımlar
-
-- Cumhurbaşkanı Sezer’in AK Parti dönemiyle olan çatışmalı ilişkisini analiz eder.
-- 2007 Cumhurbaşkanlığı seçim sürecinin hukuki ve siyasi boyutlarını açıklar.
-- 367 krizi ve Anayasa Mahkemesi kararlarının etkilerini değerlendirir.
-- 27 Nisan e-muhtırasının siyasi sonuçlarını kavrar.
-- 2007 anayasa değişikliklerinin siyasal sistem üzerindeki etkisini tartışır.
 
 ---
 
@@ -203,16 +172,6 @@ AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip
 ## 📌 Konu Özeti
 
 2007 Anayasa değişiklikleriyle birlikte Cumhurbaşkanlığı makamı doğrudan halk oyuyla seçilmeye başlanmış, bu durum Türkiye'de parlamenter sistemin yapısal dengelerini değiştirmiştir. Yeni anayasa arayışları, yürütme içinde meşruiyet krizini engelleme hedefiyle gündeme gelmiş; bu süreçte vesayet kurumlarının ve yargının direnci ile karşılaşılmıştır. Aynı dönemde AK Parti’ye yönelik kapatma davası açılmış, CHP içindeki dönüşüm sinyalleri de belirmeye başlamıştır.
-
----
-
-## 🎯 Kazanımlar
-
-- 2007 Anayasa değişikliklerinin sistemsel etkilerini analiz eder.
-- Çifte meşruiyet sorunu kavramını ve nedenlerini açıklar.
-- AK Parti’nin anayasa taslak çalışmaları ve önerilerini öğrenir.
-- 2008 kapatma davası ve siyasi sonuçlarını değerlendirir.
-- 2009 yerel seçim sonuçlarının siyasal yansımalarını tartışır.
 
 ---
 
@@ -324,16 +283,6 @@ AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip
 ## 📌 Konu Özeti
 
 2008–2010 döneminde Türkiye hem iç güvenlik açısından yoğun bir terör tehdidiyle hem de demokratikleşme gündemiyle karşı karşıya kalmıştır. “Açılım süreci” olarak adlandırılan girişim, Kürt sorununun çözümüne yönelik önemli bir başlangıç olarak görülmüş, ancak **Habur Olayı** bu süreci krize dönüştürmüştür. Aynı dönemde **2010 Anayasa Değişikliği Paketi** ile yargı reformu hedeflenmiş, ancak değişikliklerin uygulanışı başka tartışmaları da beraberinde getirmiştir.
-
----
-
-## 🎯 Kazanımlar
-
-- Açılım sürecinin başlangıcını ve temel aktörlerini tanır.
-- Habur Olayı'nın iç politika üzerindeki etkilerini analiz eder.
-- KCK operasyonlarının açılım süreciyle ilişkisini değerlendirir.
-- 2010 Anayasa değişikliklerinin kapsamını ve sonuçlarını açıklar.
-- Yargı reformu ile paralel yapının yargıdaki etkisi arasındaki ilişkiyi sorgular.
 
 ---
 
@@ -481,15 +430,6 @@ AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip
 
 ---
 
-## 🎯 Kazanımlar
-
-- Deniz Baykal’ın istifasının arka planını ve siyasal sonuçlarını açıklar.
-- Kemal Kılıçdaroğlu’nun adaylık ve liderlik sürecini kronolojik olarak kavrar.
-- CHP'nin söylem ve siyaset tarzında beklenen değişimi analiz eder.
-- Statükocu siyaset ile değişim arayışı arasındaki farkları değerlendirir.
-
----
-
 ## 🔍 Baykal’ın İstifası ve Kaset Komplosu
 
 - **6 Mayıs 2010**: Baykal’a ait olduğu iddia edilen video internete sızdırıldı.
@@ -562,15 +502,6 @@ AK Parti, 2002 seçimlerinden zaferle çıkarak iktidara gelmiş ve Recep Tayyip
 ## 📌 Konu Özeti
 
 AK Parti’nin ilk dış politika vizyonu, Prof. Ahmet Davutoğlu'nun “Stratejik Derinlik” tezi etrafında şekillenmiş, “komşularla sıfır sorun” temelinde çok boyutlu ve esnek bir diplomasi anlayışı benimsenmiştir. Türkiye'nin bölgesel güç olma hedefi, Batı ile ilişkilerde zaman zaman gerilimlere yol açarken; Ortadoğu, Kafkasya ve Balkanlar gibi komşu coğrafyalarla geliştirilen ilişkiler dış politikanın yönünü belirlemiştir.
-
----
-
-## 🎯 Kazanımlar
-
-- AK Parti dönemindeki dış politika paradigmasının teorik temelini öğrenir.
-- "Sıfır Sorun" politikasının hedef ve sonuçlarını analiz eder.
-- 1 Mart Tezkeresi, Davos Krizi ve Mavi Marmara gibi kırılma noktalarını kavrar.
-- Türkiye’nin çok boyutlu dış politika arayışlarını değerlendirir.
 
 ---
 

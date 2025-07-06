@@ -5,15 +5,6 @@
 
 ---
 
-### Kazanımlar
-
-- Çok partili hayata geçiş süreci öğrenilir.
-- II. Dünya Savaşı sonrası uluslararası sistemin etkileri incelenir.
-- Demokrat Parti dönemi analiz edilir.
-- 1960 Darbesi öncesi süreç değerlendirilir.
-
----
-
 ### Başlamadan Önce
 
 - Önceki bölümde **Millî Mücadele ve tek parti rejimi** ele alındı.
@@ -21,13 +12,6 @@
 - İç ve dış dinamikler, seçimler ve Demokrat Parti dönemi gelişmeleri açıklanacak.
 
 ---
-
-### Birlikte Düşünelim
-
-- Türkiye’de çok partili sisteme geçiş nasıl oldu?
-- II. Dünya Savaşı’nın etkileri nelerdi?
-- 1954 sonrası siyasal ve ekonomik sorunlar nelerdi?
-- 1960 darbesine giden süreçte neler yaşandı?
 
 ---
 

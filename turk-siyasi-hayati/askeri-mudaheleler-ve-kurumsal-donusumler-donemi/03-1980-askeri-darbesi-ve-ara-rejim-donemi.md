@@ -3,16 +3,6 @@
 > “Değişim için üç önemli konuyu söyleyeceğim... Bunlar üç ana hürriyettir: fikir hürriyeti, din ve vicdan hürriyeti, teşebbüs hürriyeti.”  
 > — Turgut Özal
 
-## 🎯 Kazanımlar
-
-- 12 Eylül 1980 darbesi hakkında bilgi edinilir.
-- Ara rejim dönemi ve 12 Eylül rejimi tanımlanır.
-- 1982 Anayasası’nın getirdiği sistemin özellikleri kavranır.
-- Dönemin dış politikası özetlenir.
-- Özal dönemi ve sonrası siyasal gelişmeler değerlendirilir.
-
----
-
 ## 📌 6.1. 12 Eylül Rejimi
 
 ### 📍 Darbenin Gerçekleşmesi

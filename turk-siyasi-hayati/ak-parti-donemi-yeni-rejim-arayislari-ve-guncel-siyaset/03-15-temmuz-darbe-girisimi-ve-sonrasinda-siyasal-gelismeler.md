@@ -3,23 +3,11 @@
 > “Türkiye’nin ABD’ye güveni darbenin ardından çok zedelendi… Amerikalı yetkililer şunu anlamalı; Türkiye’nin güven kaybının iyi nedenleri vardır. Türklerin kafasında ‘ABD neden hükümeti desteklemekte daha aktif değildi?’, ‘Darbeyi kınamakta neden geç kaldı?’, ‘Gülen hâlâ neden ABD’de?’, ‘ABD nasıl PKK’nın bir uzantısıyla iş birliği yapıyor?’ soruları var.”  
 > — _Michael Reynolds_
 
-## 🎯 Kazanımlar
-
-- 15 Temmuz’da yaşanan darbe girişimi hakkında bilgi sahibi olur.
-- Darbe girişimi sonrasında yaşanan siyasal gelişmeleri öğrenir.
-- Başkanlık sistemi ve bu sistemin Türk siyasal hayatı üzerindeki etkisi hakkında bilgi edinir.
-
 ## 🧭 Başlamadan Önce
 
 Bir önceki bölümde AK Parti iktidarı ve 2011 sonrası süreç ele alınmıştı. Bu bölümde ise **15 Temmuz darbe girişimi** ve sonrasında yaşanan siyasal gelişmelere değinilecektir. 15 Temmuz, Türkiye siyasetinde yeni bir dönemi başlatmıştır. Siyasal tarihimizde ilk kez bir darbe sokakta püskürtülmüş, bu yönüyle sadece Türkiye’de değil birçok ülke için de benzersiz bir örnek teşkil etmiştir.
 
 Darbe girişimi, siyasete ilk olarak hükümet sistemi değişimi olarak yansımış ve bu değişim yeni bir tartışma eksenini doğurmuştur. İçinde bulunduğumuz dönem, yeni sistemin sonuçları ve bu sistemin bir yansıması olan **ittifak siyaseti** etrafında şekillenmektedir. 15 Temmuz ayrıca Türk dış politikasını da derinden etkileyen bir dizi gelişmenin başlangıç noktası olmuştur.
-
-## 💬 Birlikte Düşünelim
-
-1. 15 Temmuz gecesi neler yaşandı?
-2. Darbe girişimi nasıl sonlandırıldı?
-3. Darbe girişimi sonrası süreç toplumu ve Türk siyasal hayatını nasıl etkiledi?
 
 ## 📚 Okuma Önerisi
 

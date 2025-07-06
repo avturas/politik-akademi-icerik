@@ -1,14 +1,5 @@
 # 28 Şubat’tan Ekonomik Krize Siyasal İstikrarsızlığın Derinleşmesi
 
-## 🎯 Kazanımlar
-
-- 1999 seçimleri ve DSP-MHP-ANAP koalisyon hükümeti hakkında bilgi sahibi olunur.
-- 1999 Marmara Depremi’nin siyasal ve ekonomik etkileri anlaşılır.
-- Dönemin dış politika yaklaşımları öğrenilir.
-- 2002 seçimlerine giden sürecin dinamikleri kavranır.
-
----
-
 ## 8.1 1999 Seçimleri ve DSP-MHP-ANAP Hükümeti
 
 ### 📌 28 Şubat Sürecinin Etkisi
