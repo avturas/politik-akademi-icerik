@@ -859,5 +859,152 @@
     "category": "Türk Siyasi Hayatı",
     "module": "Ak Parti Dönemi, Yeni Rejim Arayışları ve Güncel Siyaset (2002-Günümüz)",
     "path": "turk-siyasi-hayati/ak-parti-donemi-yeni-rejim-arayislari-ve-guncel-siyaset/04-turk-dis-politikasinin-guncel-parametreleri.md"
+  },
+  {
+    "title": "Uluslararası İlişkiler Disiplinine Giriş ve Epistemolojik Temeller",
+    "slug": "01-uluslararasi-iliskiler-giris-ve-epistemoloji",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/01-uluslararasi-iliskiler-giris-ve-epistemoloji.md"
+  },
+  {
+    "title": "Klasik Realizm ve Neorealizm: Güç, Anarşi ve Devlet Merkezlilik",
+    "slug": "02-klasik-realizm-ve-neorealizm",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/02-klasik-realizm-ve-neorealizm.md"
+  },
+  {
+    "title": "İdealizm ve Neoliberal Kurumsalcılık: İşbirliği ve Uluslararası Kurumlar",
+    "slug": "03-idealizm-ve-neoliberal-kurumsalcilik",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/03-idealizm-ve-neoliberal-kurumsalcilik.md"
+  },
+  {
+    "title": "Kritik Teoriler: Marksizm, Dünya Sistem Teorisi ve Eleştirel Yaklaşımlar",
+    "slug": "04-kritik-teoriler-marksizm-ve-dunya-sistemi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/04-kritik-teoriler-marksizm-ve-dunya-sistemi.md"
+  },
+  {
+    "title": "İnşacı Yaklaşım ve Kimlik Temelli Uluslararası İlişkiler Okuması",
+    "slug": "05-insaci-yaklasim-ve-kimlik",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/05-insaci-yaklasim-ve-kimlik.md"
+  },
+  {
+    "title": "Feminist Uluslararası İlişkiler Kuramı ve Toplumsal Cinsiyet Boyutu",
+    "slug": "06-feminist-uluslararasi-iliskiler",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/06-feminist-uluslararasi-iliskiler.md"
+  },
+  {
+    "title": "Postyapısalcı, Postkolonyal ve Küresel Güney Perspektifleri",
+    "slug": "07-postyapisalci-postkolonyal-kuresel-guney",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/07-postyapisalci-postkolonyal-kuresel-guney.md"
+  },
+  {
+    "title": "Diplomasinin Tarihsel Evrimi: Antik Çağdan Modern Döneme",
+    "slug": "08-diplomasinin-tarihsel-evrimi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/08-diplomasinin-tarihsel-evrimi.md"
+  },
+  {
+    "title": "Modern Diplomasinin Doğuşu: Westphalia'dan Viyana Kongresi’ne",
+    "slug": "09-modern-diplomasinin-dogusu",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/09-modern-diplomasinin-dogusu.md"
+  },
+  {
+    "title": "Soğuk Savaş Döneminde Diplomasi: Bloklar, Caydırıcılık ve Krizler",
+    "slug": "10-soguk-savas-doneminde-diplomasi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/10-soguk-savas-doneminde-diplomasi.md"
+  },
+  {
+    "title": "Yeni Diplomasi Biçimleri: Kamu Diplomasisi, Dijital Diplomasi ve Paradiplomasi",
+    "slug": "11-yeni-diplomasi-bicimleri",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/11-yeni-diplomasi-bicimleri.md"
+  },
+  {
+    "title": "Uluslararası Örgütler ve Diplomatik İlişkiler: BM, AB, NATO ve Diğerleri",
+    "slug": "12-uluslararasi-orgutler-ve-diplomatik-iliskiler",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/12-uluslararasi-orgutler-ve-diplomatik-iliskiler.md"
+  },
+  {
+    "title": "21. Yüzyılda Güvenlik: Sert Güç, Yumuşak Güç ve Akıllı Güç Yaklaşımları",
+    "slug": "13-21yy-guvenlik-guc-yaklasimlari",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/13-21yy-guvenlik-guc-yaklasimlari.md"
+  },
+  {
+    "title": "Çatışma Çözümü, Arabuluculuk ve Kriz Yönetimi",
+    "slug": "14-catisma-cozumu-arabuluculuk-kriz-yonetimi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/14-catisma-cozumu-arabuluculuk-kriz-yonetimi.md"
+  },
+  {
+    "title": "Uluslararası Hukuk ve Diplomasi Arasındaki Etkileşim",
+    "slug": "15-uluslararasi-hukuk-ve-diplomasi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/15-uluslararasi-hukuk-ve-diplomasi.md"
+  },
+  {
+    "title": "Küreselleşme, Egemenlik ve Çok Taraflılık Tartışmaları",
+    "slug": "16-kuresellesme-egemenlik-cok-taraflilik",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/16-kuresellesme-egemenlik-cok-taraflilik.md"
+  },
+  {
+    "title": "Bölgesel Güç Olgusu ve Türkiye’nin Yükselen Aktör Rolü",
+    "slug": "17-bolgesel-guc-ve-turkiye",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/17-bolgesel-guc-ve-turkiye.md"
+  },
+  {
+    "title": "Türk Dış Politikasında Teoriden Pratiğe: Stratejik Derinlikten Mavi Vatan’a",
+    "slug": "18-turk-disi-politikasinda-stratejik-derinlikten-mavi-vatana",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/18-turk-disi-politikasinda-stratejik-derinlikten-mavi-vatana.md"
+  },
+  {
+    "title": "Diplomaside Yeni Aktörler: Şehirler, STK’lar, Medya ve Teknoloji",
+    "slug": "19-diplomaside-yeni-aktorler",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/19-diplomaside-yeni-aktorler.md"
+  },
+  {
+    "title": "Uluslararası İlişkilerde Gelecek Trendleri ve Türkiye’nin Jeopolitik Vizyonu",
+    "slug": "20-gelecek-trendleri-ve-turkiye-jeopolitik-vizyon",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Uluslararası İlişkiler Kuramları ve Diplomasi",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/uluslararasi-iliskiler-kuramlari-ve-diplomasi/20-gelecek-trendleri-ve-turkiye-jeopolitik-vizyon.md"
+  },
+  {
+    "title": "Osmanlı’dan Cumhuriyete Dış Politika Mirası",
+    "slug": "01-osmanlidan-cumhuriyete-dis-politika-mirasi",
+    "category": "Uluslarası Sistem, Jeopolitik ve Türkiye",
+    "module": "Türk Dış Politikası: Tarihsel Süreç ve Güncel Sorunlar",
+    "path": "uluslararasi-sistem-jeopolitik-ve-turkiye/turk-dis-politikasi-tarihsel-surec-ve-guncel-sorunlar/01-osmanlidan-cumhuriyete-dis-politika-mirasi.md"
   }
 ]
