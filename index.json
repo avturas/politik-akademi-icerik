@@ -1832,5 +1832,145 @@
     "category": "Ekonomi ve Yönetim Uygulamaları",
     "module": "Türkiye'nin Ekonomik Gelişimi",
     "path": "ekonomi-ve-yonetim-uygulamalari/turkiyenin-ekonomik-gelisimi/20-turkiye-ekonomisinin-gelecegi-firsatlar-ve-riskler.md"
+  },
+  {
+    "title": "Liderlik Nedir? Kuramsal Yaklaşımlar",
+    "slug": "01-liderlik-nedir-kuramsal-yaklasimlar",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/01-liderlik-nedir-kuramsal-yaklasimlar.md"
+  },
+  {
+    "title": "Karizmatik, Dönüştürücü ve Hizmetkâr Liderlik Modelleri",
+    "slug": "02-karizmatik-donusumcu-ve-hizmetkar-liderlik-modelleri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/02-karizmatik-donusumcu-ve-hizmetkar-liderlik-modelleri.md"
+  },
+  {
+    "title": "Siyasal Liderlik ve Devlet Adamlığı Arasındaki Fark",
+    "slug": "03-siyasal-liderlik-ve-devlet-adamligi-arasindaki-fark",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/03-siyasal-liderlik-ve-devlet-adamligi-arasindaki-fark.md"
+  },
+  {
+    "title": "Türk Siyasetinde Liderlik Tipolojileri",
+    "slug": "04-turk-siyasetinde-liderlik-tipolojileri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/04-turk-siyasetinde-liderlik-tipolojileri.md"
+  },
+  {
+    "title": "Kriz Dönemlerinde Liderlik Stratejileri",
+    "slug": "05-kriz-donemlerinde-liderlik-stratejileri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/05-kriz-donemlerinde-liderlik-stratejileri.md"
+  },
+  {
+    "title": "Kamu Yönetiminde Karar Alma Modelleri",
+    "slug": "06-kamu-yonetiminde-karar-alma-modelleri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/06-kamu-yonetiminde-karar-alma-modelleri.md"
+  },
+  {
+    "title": "Rasyonel, Artan-Değerli ve Karışık Tarama Modelleri",
+    "slug": "07-rasyonel-artan-degerli-ve-karisik-tarama-modelleri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/07-rasyonel-artan-degerli-ve-karisik-tarama-modelleri.md"
+  },
+  {
+    "title": "Stratejik Karar Alma ve Risk Yönetimi",
+    "slug": "08-stratejik-karar-alma-ve-risk-yonetimi",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/08-stratejik-karar-alma-ve-risk-yonetimi.md"
+  },
+  {
+    "title": "Grup Dinamikleri ve Kolektif Karar Alma",
+    "slug": "09-grup-dinamikleri-ve-kolektif-karar-alma",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/09-grup-dinamikleri-ve-kolektif-karar-alma.md"
+  },
+  {
+    "title": "Veriye Dayalı Karar Verme: Politika Analizi Temelleri",
+    "slug": "10-veriye-dayali-karar-verme-politika-analizi-temelleri",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/10-veriye-dayali-karar-verme-politika-analizi-temelleri.md"
+  },
+  {
+    "title": "Kamu Etiği: Kavramlar, İlkeler ve Kapsam",
+    "slug": "11-kamu-etigi-kavramlar-ilkeler-ve-kapsam",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/11-kamu-etigi-kavramlar-ilkeler-ve-kapsam.md"
+  },
+  {
+    "title": "Etik İkilemler ve Çatışmaların Yönetimi",
+    "slug": "12-etik-ikilemler-ve-catismalarin-yonetimi",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/12-etik-ikilemler-ve-catismalarin-yonetimi.md"
+  },
+  {
+    "title": "Yolsuzluk, Ayrımcılık ve Kamu Gücünün Sınırları",
+    "slug": "13-yolsuzluk-ayrimcilik-ve-kamu-gucunun-sinirlari",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/13-yolsuzluk-ayrimcilik-ve-kamu-gucunun-sinirlari.md"
+  },
+  {
+    "title": "Etik Liderlik: Ahlaki Rehberlik ve Hesap Verebilirlik",
+    "slug": "14-etik-liderlik-ahlaki-rehberlik-ve-hesap-verebilirlik",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/14-etik-liderlik-ahlaki-rehberlik-ve-hesap-verebilirlik.md"
+  },
+  {
+    "title": "Kamu Görevlilerinde Mesleki Etik ve Yasal Sorumluluk",
+    "slug": "15-kamu-gorevlilerinde-mesleki-etik-ve-yasal-sorumluluk",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/15-kamu-gorevlilerinde-mesleki-etik-ve-yasal-sorumluluk.md"
+  },
+  {
+    "title": "Etik Dışı Davranışların Sonuçları: Ulusal ve Uluslararası Örnekler",
+    "slug": "16-etik-disi-davranislarin-sonuclari-ulusal-ve-uluslararasi-ornekler",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/16-etik-disi-davranislarin-sonuclari-ulusal-ve-uluslararasi-ornekler.md"
+  },
+  {
+    "title": "Yerel Yönetimlerde Liderlik ve Etik Duruş",
+    "slug": "17-yerel-yonetimlerde-liderlik-ve-etik-durus",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/17-yerel-yonetimlerde-liderlik-ve-etik-durus.md"
+  },
+  {
+    "title": "Siyasette Lobicilik, Şeffaflık ve Hesap Verilebilirlik",
+    "slug": "18-siyasette-lobicilik-seffaflik-ve-hesap-verilebilirlik",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/18-siyasette-lobicilik-seffaflik-ve-hesap-verilebilirlik.md"
+  },
+  {
+    "title": "Simülasyon: Kriz Anında Etik ve Hızlı Karar Verme",
+    "slug": "19-simulasyon-kriz-aninda-etik-ve-hizli-karar-verme",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/19-simulasyon-kriz-aninda-etik-ve-hizli-karar-verme.md"
+  },
+  {
+    "title": "Kamu Yönetiminde Reformlar ve Etik Kodlar Üzerine Eleştirel Değerlendirme",
+    "slug": "20-kamu-yonetiminde-reformlar-ve-etik-kodlar-uzerine-elestirel-degerlendirme",
+    "category": "Liderlik, Etik ve Davranış",
+    "module": "Liderlik, Karar Alma ve Kamu Etikleri",
+    "path": "liderlik-etik-ve-davranis/liderlik-karar-alma-ve-kamu-etikleri/20-kamu-yonetiminde-reformlar-ve-etik-kodlar-uzerine-elestirel-degerlendirme.md"
   }
 ]
