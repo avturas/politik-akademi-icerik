@@ -1,57 +1,83 @@
 # II. Dünya Savaşı ve Ekonomik Daralma (1939–1945)
 
-## Giriş
+---
 
-II. Dünya Savaşı, Türkiye'nin doğrudan katılmadığı ancak ekonomik, siyasal ve sosyal yapısını derinden etkilediği bir dönemdir. Savaş boyunca tarafsız kalan Türkiye, bu süreci büyük bir ihtiyat ve denge politikası ile yönetmeye çalışmıştır. Ancak savaşın küresel etkileri, Türkiye ekonomisinde ciddi daralmalara yol açmıştır.
-
-## Savaşın Ekonomik Yansımaları
-
-### 1. Ticaretin Daralması
-
-Savaş yıllarında Türkiye'nin dış ticareti ciddi biçimde azalmıştır. Gerek ithalat gerekse ihracat, savaşın etkisiyle dar bir çerçeveye hapsolmuştur. Deniz taşımacılığının riskli hale gelmesi ve Avrupa pazarlarının kapanması, dış ticaret hacmini düşürmüştür.
-
-### 2. Üretim ve Kıtlık
-
-- Tarım ve sanayi üretiminde ciddi düşüşler yaşandı.
-- Temel gıda ürünlerinde kıtlıklar baş gösterdi.
-- Kara borsacılık ve fiyat enflasyonu yaygınlaştı.
-
-### 3. İş Gücü Kaybı ve Askerlik
-
-Milyonlarca kişi uzun süreli askerliğe alınmış, bu da tarım ve üretim sektörlerinde iş gücü açığı yaratmıştır.
-
-### 4. Milli Korunma Kanunu (1940)
-
-Hükümet, savaş şartlarına uyum sağlamak için geniş yetkiler tanıyan Milli Korunma Kanunu’nu çıkardı. Bu kanun sayesinde;
-
-- Üretim ve dağıtım kontrol altına alındı.
-- Fiyatlar devlet tarafından belirlendi.
-- Zorunlu istihdam uygulamaları devreye sokuldu.
-
-## Varlık Vergisi (1942)
-
-Savaşın getirdiği ekonomik zorluklara çözüm bulmak amacıyla çıkarılan Varlık Vergisi, özellikle gayrimüslim vatandaşlar üzerinde ağır bir baskı oluşturdu. Verginin keyfi uygulamaları büyük eleştirilere neden oldu.
-
-- Ekonomik eşitsizlikleri artırdı.
-- Ticari hayatta güvensizlik yarattı.
-- Savaş sonrasında Batı ile ilişkileri zedeledi.
-
-## Savaş Yıllarında Devlet Müdahalesi
-
-Ekonomik faaliyetlerin hemen her alanında devlet kontrolü artırıldı:
-
-- Devletçilik yeniden önem kazandı.
-- İaşe (gıda temini) politikaları ile halkın temel ihtiyaçlarının karşılanması hedeflendi.
-- Sanayi yatırımları durma noktasına geldi.
-
-## Sonuç
-
-1939–1945 dönemi, Türkiye'nin savaş dışı kalmasına rağmen ekonomik olarak büyük bedeller ödediği bir dönemdir. Dış ticaretin azalması, üretimdeki düşüş, zorunlu askerlik ve olağanüstü vergi politikaları halkın yaşam standardını düşürmüş, devletin ekonomi üzerindeki kontrolü artmıştır. Bu dönem, savaş sonrası ekonomik reformların ve dışa açılmanın zeminini hazırlamıştır.
+## 🌐 Küresel Çalkantı ve Ulusal Duruş: Tarafsızlığın Bedeli ⚔️
+II. Dünya Savaşı, Türkiye Cumhuriyeti'nin doğrudan cephede yer almadığı, ancak jeopolitik konumu gereği küresel güç dengelerinin en keskin biçimde sınandığı bir dönem olarak ulusal hafızamıza kazınmıştır. Bu destansı çatışma, sadece askeri sahalarda değil, aynı zamanda jeo-ekonomik, sosyolojik ve diplomatik düzlemlerde de derin izler bırakmıştır. Türkiye, bu kaotik atmosferde, ulusal egemenliğini ve bütünlüğünü koruma refleksiyle titiz bir denge ve ihtiyat politikası izlemiştir. Tarafsızlık, bir yandan askeri cephelerden uzak durarak insan sermayesini ve sınırlı kaynakları muhafaza etme stratejik tercihi (M) iken, diğer yandan küresel güçler arasında diplomatik manevra alanını (D) genişletme çabası olmuştur. Ancak savaşın küresel ölçekteki yıkıcı etkileri, Türkiye'nin jeo-ekonomik (E) dokusunda ciddi daralmalara ve yapısal dönüşümlere yol açmıştır. Devlet, bu süreçte ulusal bekayı temin etmek adına olağanüstü yetkilerle donatılmış ve toplumsal yaşamın her alanına nüfuz eden bir dizi müdahale aracı geliştirmiştir. Bu, ulusal güvenlik paradigmasının sadece askeri güce dayalı olmadığını, aynı zamanda ekonomik (E) ve sosyolojik istihbaratın (I) direniş kapasitesini de içerdiğini açıkça ortaya koymuştur.
 
 ---
 
-## 📚 Okuma Önerileri
+## 📉 Jeo-Ekonomik Kırılganlık ve Ulusal Direniş Stratejileri 🛡️
+Savaşın getirdiği küresel tedarik zinciri kesintileri ve uluslararası ticaretin felce uğraması, Türkiye'nin jeo-ekonomik yapısını derinden sarsmıştır. Devlet, bu dışsal şoklara karşı ulusal direniş stratejilerini devreye sokarken, iç dinamiklerde de radikal değişimlere gitmek zorunda kalmıştır. Bu süreç, DIME (Diplomatik, Enformasyon, Askeri, Ekonomik) güç unsurlarının entegre bir şekilde nasıl yönetilmesi gerektiğine dair kritik dersler sunmuştur.
 
-- Korkut Boratav – Türkiye İktisat Tarihi, 1908–1985
-- Zafer Toprak – Türkiye’de “Millî İktisat”
-- Erik Jan Zürcher – Modernleşen Türkiye’nin Tarihi (ilgili savaş dönemi bölümleri)
+### 🚫 Ticaret Yollarının Tıkanması ve Jeo-Ekonomik Abluka Tehdidi 🚢
+Savaş yıllarında Türkiye'nin dış ticareti, küresel deniz yollarının mayınlarla ve denizaltı tehditleriyle kapanması, Avrupa pazarlarının militarize edilmesi ve stratejik kaynaklara erişimin kısıtlanması sonucu dramatik biçimde daralmıştır. İthalat ve ihracat hacimleri, ulusal ekonomiyi (E) dışa bağımlılıktan korumak adına uygulanan devlet kontrolü ve dış güçlerin jeo-ekonomik baskıları altında dar bir çerçeveye hapsolmuştur. Bu durum, diplomatik kanallarla (D) stratejik ticaret anlaşmaları yapma zorunluluğunu ortaya çıkarmış, ancak bu anlaşmalar bile küresel çatışmanın dinamikleri karşısında kırılgan kalmıştır. Deniz taşımacılığındaki yüksek riskler, sigorta maliyetlerini artırmış ve ulusal gemi filolarının hareket kabiliyetini sınırlayarak jeo-ekonomik bir ablukayı fiilen deneyimletmiştir. Uluslararası bilgi akışındaki (I) kısıtlamalar da bu ticari daralmayı derinleştirmiştir.
+
+### 🌾 Üretim Kapasitesinin Erozyonu ve Sosyolojik Kıtlık Algısının Yönetimi 🍞
+Savaş koşulları altında, tarım ve sanayi üretiminde ciddi düşüşler yaşanmıştır. Hammadde tedarikindeki aksaklıklar, enerji kısıtlamaları ve dış pazarlara erişimin zorluğu, sanayi üretimini adeta durma noktasına getirmiştir. Tarım sektöründe ise, iş gücü kaybı ve girdi maliyetlerindeki artışlar verimliliği düşürmüş, temel gıda ürünlerinde yaygın kıtlıklar baş göstermiştir. Bu durum, sosyolojik istihbarat (I) açısından kritik bir alanı oluşturmuş; kara borsacılık ve spekülatif fiyat enflasyonu, toplumda derin bir güvensizlik ve huzursuzluk yaratmıştır. Devlet, bu sosyolojik kıtlık algısını yönetmek ve ulusal moral çöküşünü engellemek için bilgi kontrol mekanizmalarını devreye sokmuş, ancak krizin derinliği bu çabaları zorlamıştır. Bilgi akışının ve kamuoyu algısının yönetimi, iç güvenlik ve devletin meşruiyeti açısından hayati bir koz haline gelmiştir. Bu durum, ulusal ekonominin (E) sadece rakamlardan ibaret olmadığını, aynı zamanda halkın psikolojisi ve enformasyon algısıyla doğrudan ilişkili olduğunu göstermiştir.
+
+### ⚔️ Askeri Yükümlülük ve İnsan Sermayesi Tahsisinin Bedeli 👨‍🌾
+Milyonlarca genç ve yetişkin nüfus, uzun süreli askerlik hizmetine alınmış, bu durum ulusal savunma kapasitesini (M) güçlendirirken, tarım, sanayi ve diğer üretim sektörlerinde ciddi bir iş gücü açığına yol açmıştır. Bu stratejik insan sermayesi tahsisi kararı, bir yandan askeri caydırıcılık unsurunu korurken, diğer yandan ulusal jeo-ekonomik (E) üretkenliği düşürerek uzun vadeli kalkınma hedeflerini sekteye uğratmıştır. Toplumun en üretken kesiminin militarize edilmesi, savaşın ekonomik yükünü daha da artırmış ve sosyal yapıyı derinden etkileyen demografik ve ekonomik dengesizliklere neden olmuştur. Ancak bu, ulusal bekaya yönelik tehdit algısının askeri kapasiteyi önceliklendirmesi gerekliliğinin bir göstergesidir.
+
+### ⚖️ Milli Korunma Kanunu (1940): Devletin Jeo-Ekonomik Olağanüstü Hali ✊
+Hükümet, savaşın yarattığı olağanüstü koşullara uyum sağlamak ve ulusal bekasını temin etmek amacıyla 1940 yılında Milli Korunma Kanunu'nu çıkarmıştır. Bu kanun, devletin ekonomi (E) üzerindeki kontrol yetkilerini eşi benzeri görülmemiş bir düzeye taşımıştır. Bu yasal düzenleme sayesinde;
+*   **Üretim ve Dağıtımın Merkezi Kontrolü:** Tüm üretim faaliyetleri ve ürünlerin dağıtım zincirleri devletin sıkı denetimine alınmıştır. Bu, kıt kaynakların ulusal önceliklere göre tahsis edilmesi ve stratejik sektörlerin korunması amacını taşımıştır. Bu denetim, aynı zamanda kara borsacılığı engellemek ve bilgi akışını (I) kontrol etmek için bir araç olmuştur.
+*   **Fiyat Mekanizmalarının Devlet Eliyle Belirlenmesi:** Piyasa dinamikleri yerine, temel tüketim maddelerinin fiyatları devlet tarafından belirlenerek spekülasyonun ve kara borsacılığın önüne geçilmeye çalışılmıştır. Bu, sosyolojik istikrarı sağlama ve toplumsal huzursuzluğu minimize etme yönünde bir enformasyon yönetimi (I) aracı olarak da kullanılmıştır.
+*   **Zorunlu İstihdam ve Kaynak Seferberliği:** İş gücünün stratejik sektörlere yönlendirilmesi ve mülkiyet haklarına sınırlamalar getirilerek ulusal kaynakların savaş ekonomisine entegrasyonu sağlanmıştır. Bu, devletin ulusal güvenlik ve beka önceliğini, bireysel hakların önüne koyduğu bir siyasi iradenin somut göstergesidir.
+Bu kanun, devletin ulusal kapasiteyi DIME unsurları bağlamında seferber etme yeteneğini maksimize etmiştir. Ekonomik kaynakların ve bilginin kontrolü, iç politikada istikrarı temin etmede kritik bir rol oynamış ve dış politikada diplomatik (D) manevra alanını korumuştur.
+
+---
+
+## 💰 Varlık Vergisi (1942): Jeo-Ekonomik Gerilimlerin Sosyal Bedeli ve Enformasyon Savaşları 🕵️
+Savaşın getirdiği jeo-ekonomik (E) zorluklara bir çözüm olarak 1942'de çıkarılan Varlık Vergisi, ulusal sermaye tabanını genişletme ve savaş harcamalarını karşılama amacı taşıyordu. Ancak bu verginin uygulanma biçimi, özellikle gayrimüslim vatandaşlar üzerinde ağır ve çoğu zaman keyfi bir baskı oluşturdu. Bu durum, devletin iç politikada uyguladığı jeo-ekonomik tedbirlerin, sosyolojik yapılar üzerindeki potansiyel tahrip edici etkilerini gözler önüne sermiştir.
+*   **Ekonomik Eşitsizliklerin Keskinleşmesi:** Vergi, toplumsal sınıflar arasındaki ekonomik eşitsizlikleri daha da derinleştirmiş, belirli kesimler üzerinde orantısız bir mali yük oluşturarak ulusal birliğin zedelenmesine yol açmıştır. Bu durum, iç toplumsal direniş kapasitesini olumsuz etkileme riski taşımıştır ve sosyolojik istihbarat (I) açısından izlenmesi gereken bir zafiyet alanı oluşturmuştur.
+*   **Ticari Hayatta Güven Kaybı ve Bilgi Asimetrisi:** Verginin keyfi tahsilat yöntemleri, ticari hayatta derin bir güvensizlik ortamı yaratmış, yatırım ve girişimcilik ruhunu köreltmiştir. Bu durum, jeo-ekonomik aktörlerin geleceğe yönelik stratejik planlamalarını aksatmış, devletin bilgi toplama ve uygulama süreçlerindeki şeffaflık eksikliği, toplumsal direnişi azaltan bir faktör haline gelmiştir. Bilginin asimetrik kullanımı, belirli grupları hedef alarak stratejik bir koz olarak kullanılmış, bazı kesimlerin finansal gücünü zayıflatarak devletin ekonomik kontrolünü (E) artırmıştır.
+*   **Uluslararası Diplomasi ve İtibar Zafiyeti:** Varlık Vergisi uygulamaları, savaş sonrasında Türkiye'nin Batı dünyasıyla olan diplomatik (D) ilişkilerinde ciddi bir itibar zafiyeti yaratmıştır. Özellikle insan hakları ve azınlık hakları konusunda uluslararası eleştirilere maruz kalınması, Türkiye'nin global arenadaki diplomatik pozisyonunu zayıflatıcı bir unsur olmuştur. Bu, ulusal güvenlik politikasının sadece iç dinamiklerle sınırlı kalmadığını, aynı zamanda uluslararası algı ve bilgi savaşlarının (I) da bir parçası olduğunu göstermiştir.
+
+---
+
+## ✊ Devletçilik Doktrininin Yeniden İnşası ve Merkeziyetçi Kontrolün Yükselişi ⚙️
+Savaş yıllarında, ekonomik faaliyetlerin (E) hemen her alanında devlet kontrolü eşi benzeri görülmemiş bir düzeye ulaşmıştır. Bu dönem, devletçilik ilkesinin sadece bir kalkınma modeli olmaktan öte, ulusal beka stratejisinin temel direği haline geldiği bir evreye işaret eder.
+*   **Devletçiliğin Güçlenmesi:** Piyasa mekanizmalarının savaş koşullarında yetersiz kalması ve dışsal şoklara karşı ulusal ekonomiyi koruma refleksi, devletin üretim, dağıtım ve tüketim üzerindeki kontrolünü pekiştirmiştir. Bu, jeo-ekonomik kriz yönetiminde devletin merkezi ve belirleyici rolünü bir kez daha vurgulamıştır.
+*   **İaşe Politikaları ile Sosyolojik İstikrar:** Halkın temel ihtiyaçlarının karşılanması, özellikle gıda temini, devletin en öncelikli görevi haline gelmiştir. "İaşe politikaları" adı altında yürütülen bu çabalar, toplumsal huzursuzluğu engellemek ve iç cephedeki moral ve motivasyonu yüksek tutmak adına stratejik bir bilgi yönetimi (I) ve sosyolojik istihbarat aracı olarak kullanılmıştır. Temel gıda maddelerinin dağıtımının ve fiyatının kontrolü, devletin toplumsal meşruiyetini pekiştiren bir koz olmuştur.
+*   **Sanayi Yatırımlarının Duraksaması ve Stratejik Adaptasyon:** Savaş ekonomisinin gerektirdiği kaynak tahsisi, büyük ölçekli sanayi yatırımlarının durma noktasına gelmesine neden olmuştur. Mevcut kapasiteler, savaşın ihtiyaçlarına göre adapte edilmiş (M'yi destekleyici), ancak uzun vadeli endüstriyel kalkınma hedefleri askıya alınmıştır. Bu durum, ulusal ekonominin direncini artırırken, potansiyel büyüme fırsatlarının ertelenmesi anlamına gelmiştir. Ancak bu erteleme, savaş sonrası döneme yönelik stratejik bir hazırlık olarak da yorumlanabilir.
+
+---
+
+### 🔭 Stratejik Öngörü: Kriz Yönetiminden Gelecek İnşasına 🚀
+II. Dünya Savaşı deneyimi, ulusal güvenlik paradigmasını çok boyutlu bir zemine taşımıştır. Bu dönem, devletin sadece askeri gücünü (M) değil, aynı zamanda jeo-ekonomik (E) direncini, sosyolojik istikrarını ve bilgi yönetim (I) kabiliyetini de kapsayan bütüncül bir güç yaklaşımının (DIME) gerekliliğini öğretmiştir. Gelecekteki küresel çalkantılar ve jeopolitik kırılmalar karşısında;
+*   **Otonom Jeo-Ekonomik Yapılanma:** Kendi kendine yeterlilik prensibi, kritik sektörlerde dışa bağımlılığın azaltılması ve stratejik rezervlerin oluşturulması, ulusal bekamız için vazgeçilmez bir kılavuz olmalıdır. Tedarik zincirlerinin çeşitlendirilmesi ve ulusal üretim kapasitesinin sürekli güçlendirilmesi, herhangi bir jeo-ekonomik ablukaya karşı sigorta görevi görecektir.
+*   **Sosyolojik İstihbarat ve Algı Yönetimi:** İç toplumsal dinamiklerin sürekli analizi, kırılganlıkların tespiti ve stratejik bilgi yönetimi, dışsal manipülasyonlara ve iç huzursuzluğa karşı kalkan oluşturacaktır. Kıtlık algısının, toplumsal kutuplaşmanın veya güvensizliğin önlenmesi, ulusal birliğin en büyük kozudur. Enformasyon (I) bu bağlamda hem zafiyet hem de stratejik bir silahtır.
+*   **DIME Bütünleşmesi ve Esneklik:** Diplomatik (D) manevra kabiliyeti, askeri (M) caydırıcılık, ekonomik (E) dayanıklılık ve stratejik bilgi (I) üstünlüğü arasındaki eşgüdüm, ulusal güç enstrümanlarının en verimli şekilde kullanılmasına olanak tanıyacaktır. Bu unsurların dinamik bir şekilde entegre edilmesi ve değişen jeopolitik koşullara hızla adapte olabilen esnek bir devlet yapısı, geleceğin güvenlik mimarisinin temelini oluşturacaktır.
+*   **Bilginin Stratejik Koz Olarak Kullanımı:** Veri analizi, istihbarat ve kamu diplomasisi yoluyla bilginin, uluslararası platformlarda diplomatik nüfuz aracı, ekonomik müzakerelerde leverage unsuru ve iç politikada toplumsal konsolidasyon aracı olarak etkin kullanımı, devlet aklının en keskin silahlarından biri olacaktır. Enformasyon üstünlüğü (I), modern devletin varoluşsal gücünü belirleyen temel faktörlerden biridir.
+
+---
+
+## ✅ Kazanımlar: Ulusal Beka İçin Doktrinel Çıkarımlar 📜
+1939-1945 dönemi, Türkiye'nin savaş dışı kalmasına rağmen ulusal bekasını temin etmenin ve jeo-ekonomik bağımsızlığını sürdürmenin bedelini ödediği, ancak aynı zamanda kritik stratejik dersler çıkardığı bir laboratuvar görevi görmüştür. Bu deneyimden elde edilen doktrinel kazanımlar şunlardır:
+*   **Jeo-Ekonomik Bağımsızlık ve Otonomi:** Dış ticaretin azalması, üretimdeki düşüş ve küresel tedarik zinciri kırılmaları, ulusal ekonominin (E) kendi kendine yeterliliğinin ve stratejik sektörlerde dışa bağımlılığın minimize edilmesinin hayati önemini gözler önüne sermiştir. Bu, gelecekteki jeo-ekonomik şoklara karşı birincil savunma hattıdır.
+*   **Devletin Kriz Yönetimindeki Rolü:** Zorunlu askerlik (M) ve olağanüstü vergi politikaları (E) ile Milli Korunma Kanunu gibi radikal devlet müdahaleleri, büyük kriz anlarında devletin ekonomi ve toplum üzerindeki merkezi rolünün kaçınılmazlığını ve meşruiyetini pekiştirmiştir. Devlet, ulusal çıkarı ve bekayı temin eden son merciidir.
+*   **Sosyolojik Direnç ve Enformasyon Kontrolü:** Toplumun yaşam standardının düşmesine rağmen ulusal birliğin ve iç istikrarın korunabilmesi, devletin sosyolojik istihbarat (I) kapasitesini ve bilgi akışını yönetme becerisinin önemini vurgulamıştır. Toplumsal rıza ve direniş kapasitesi, ulusal güvenliğin temelini oluşturur ve enformasyonun stratejik bir koz olarak nasıl kullanılabileceğini göstermiştir.
+*   **DIME Enstrümanlarının Bütünleşik Kullanımı:** Diplomatik (D) tarafsızlık, askeri (M) caydırıcılık, ekonomik (E) seferberlik ve bilgi yönetimi (I) arasındaki eşgüdüm, kriz dönemlerinde ulusal kapasitenin maksimize edilmesinin anahtarıdır. Bu dönem, DIME unsurlarının birbirini tamamlayıcı ve güçlendirici etkileşimini pratik olarak kanıtlamıştır.
+
+Bu doktrinel çıkarımlar, gelecekteki ulusal güvenlik stratejilerinin şekillenmesinde temel referans noktaları olmaya devam edecektir.
+
+---
+
+## 📚 Stratejik Düşünce ve Uluslararası İlişkiler Doktrini: Temel Okumalar 📖
+Bu dönemin ve genel olarak ulusal güvenlik doktrininin daha iyi anlaşılması için aşağıdaki eserler stratejik bakış açısı ve jeopolitik analiz yeteneği kazandıracaktır:
+
+*   **Hans J. Morgenthau** – *Uluslararası Politika: Güç İçin Mücadele ve Barış* (Politics Among Nations: The Struggle for Power and Peace)
+    *   *Realist teorinin temel taşlarından biri olup, ulus devletlerin çıkarlarını, güç mücadelesini ve diplomasinin rolünü anlamak için kritik bir kaynaktır.*
+*   **Henry Kissinger** – *Diplomasi* (Diplomacy)
+    *   *Uluslararası ilişkilerin tarihsel evrimini ve büyük güçlerin diplomatik stratejilerini detaylı bir şekilde analiz ederek, kriz dönemlerindeki karar alma süreçlerine ışık tutar.*
+*   **John J. Mearsheimer** – *Büyük Güç Siyasetinin Trajedisi* (The Tragedy of Great Power Politics)
+    *   *Saldırgan realizm perspektifiyle, devletlerin güvenlik arayışlarının nasıl güç birikimine ve zaman zaman çatışmaya yol açtığını inceler.*
+*   **Robert Gilpin** – *Uluslararası İlişkilerin Politik Ekonomisi* (The Political Economy of International Relations)
+    *   *Ekonomi ile siyaset arasındaki karmaşık ilişkiyi ve bu etkileşimin uluslararası sistemdeki güç dağılımı üzerindeki etkilerini derinlemesine ele alır.*
+*   **Edward Hallett Carr** – *Yirmi Yılın Krizi, 1919-1939* (The Twenty Years' Crisis, 1919-1939)
+    *   *Savaşlar arası dönemin uluslararası siyasetini, idealizm ve realizm arasındaki gerilimi inceler; Türkiye'nin o dönemdeki dış politika tercihlerini anlamak için genel bir çerçeve sunar.*
+*   **Korkut Boratav** – *Türkiye İktisat Tarihi, 1908–1985*
+    *   *Türkiye'nin iktisadi dönüşümlerini, devletçilik politikalarını ve savaş dönemi ekonomisini kapsamlı bir şekilde inceleyen temel bir yerli kaynaktır.*
+*   **Zafer Toprak** – *Türkiye’de “Millî İktisat”*
+    *   *Milli iktisat anlayışının kökenlerini ve uygulamasını, özellikle de savaş dönemi ekonomik politikalarının ideolojik ve pratik boyutlarını açıklayan önemli bir eserdir.*
